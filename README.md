@@ -1,2 +1,3 @@
 # Projeto-Financas.ia
-Introdução ao mercado de capital e investimento e funcionamento da Bolsa de Valores, explorando como os investidores podem tornar-se sócios de empresas e os riscos e benefícios associados à renda variável.
+DESCRIÇÃO
+O desafio propõe a criação de um caderno temático no NotebookLM, reunindo de três a cinco fontes abertas em texto ou PDF sobre um assunto financeiro introdutório. A partir desse material, são definidos objetivos de estudo, elaboradas perguntas estratégicas e testadas variações de prompts, registrando as respostas e suas referências. O resultado esperado é um miniguia de estudo com resumos estruturados, glossário de conceitos e um conjunto de prompts reutilizáveis ​​que apoiem futuras revisões. A atividade enfoca o uso da IA ​​como ferramenta de aprendizagem ativa, aliando pensamento crítico, curadoria de fontes e organização do conhecimento.
